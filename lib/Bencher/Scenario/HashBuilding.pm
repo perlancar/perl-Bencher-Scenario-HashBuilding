@@ -30,3 +30,7 @@ our $scenario = {
 
 1;
 # ABSTRACT:
+
+=head1 append:SEE ALSO
+
+L<Bencher::Scenario::ArrayVsHashBuilding>
